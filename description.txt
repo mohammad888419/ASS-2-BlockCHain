@@ -1,0 +1,12 @@
+class Block : it has a constructor that has all the properties of the block     (blockChain class)
+
+calculateHash() : Calculate the hash by passing parameters                                     (blockChain class)
+     
+
+class Blockchain   : call constructor  default constructor                                   (blockChain class)  
+
+createGenesisBlock():it has some data inside it  
+
+
+  
+
